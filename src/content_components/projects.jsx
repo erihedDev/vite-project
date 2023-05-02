@@ -7,49 +7,49 @@ function Projects() {
             title: 'Frisör Saxé',
             description: 'Basic website for a hairdresser saloon.',
             link: 'https://ntig-uppsala.github.io/Frisor-Saxe/',
-            image: '/images/frisorsaxe.png',
+            image: 'images/frisorsaxe.png',
             imageDesc: 'image of project for Frisör Saxé'
         },
         {
             title: 'Florist Blåklint',
             description: 'Basic website for a flower shop.',
             link: 'https://ntig-uppsala.github.io/florist-blaklinten/',
-            image: '/images/floristblaklint.png',
+            image: 'images/floristblaklint.png',
             imageDesc: 'image of project for Florist Blåklint'
         },
         {
             title: 'Lunchpad-py',
             description: 'A blip system for students to check in when they eat lunch, made with python.',
             link: null,
-            image: '/images/ntig-logo.jpg',
+            image: 'images/ntig-logo.jpg',
             imageDesc: 'image of project for lunchpad-py'
         },  
         {
             title: 'Elevhalsa-skylt',
             description: 'A digital sign for information about school personal, such as contact information and availability.',
             link: null,
-            image: '/images/project-screen.jpg',
+            image: 'images/project-screen.jpg',
             imageDesc: 'image of NTI Gymnasiet logo' 
         },  
         {
             title: 'Hotel-kassasystem',
             description: 'A booking and payment system for a hotel, made in C#',
             link: 'https://github.com/NTIG-Uppsala/hotell-kassasystem',
-            image: '/images/kassasystem.png',
+            image: 'images/kassasystem.png',
             imageDesc: 'image of project for Hotel-kassasystem'
         },  
         {
             title: 'Borgerlig vigsel',
             description: 'Prototype for a booking system for weddings at Uppsala kommun, made using react js.',
             link: null,
-            image: '/images/ua-logo.png',
+            image: 'images/ua-logo.png',
             imageDesc: 'image of uppsala kommun logo'
         },  
         {
             title: 'Formulärssvarshantering',
             description: 'Internal website at Uppsala kommun for handling responses from forms.',
             link: null,
-            image: '/images/ua-logo.png',
+            image: 'images/ua-logo.png',
             imageDesc: 'image of uppsala kommun logo'
         },  
     ]
