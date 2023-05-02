@@ -7,14 +7,14 @@ function Projects() {
             title: 'Frisör Saxé',
             description: 'Basic website for a hairdresser saloon.',
             link: 'https://ntig-uppsala.github.io/Frisor-Saxe/',
-            image: 'images/frisorsaxe.png',
+            image: 'images/frisorsaxe.PNG',
             imageDesc: 'image of project for Frisör Saxé'
         },
         {
             title: 'Florist Blåklint',
             description: 'Basic website for a flower shop.',
             link: 'https://ntig-uppsala.github.io/florist-blaklinten/',
-            image: 'images/floristblaklint.png',
+            image: 'images/floristblaklint.PNG',
             imageDesc: 'image of project for Florist Blåklint'
         },
         {
@@ -35,7 +35,7 @@ function Projects() {
             title: 'Hotel-kassasystem',
             description: 'A booking and payment system for a hotel, made in C#',
             link: 'https://github.com/NTIG-Uppsala/hotell-kassasystem',
-            image: 'images/kassasystem.png',
+            image: 'images/kassasystem.PNG',
             imageDesc: 'image of project for Hotel-kassasystem'
         },  
         {
